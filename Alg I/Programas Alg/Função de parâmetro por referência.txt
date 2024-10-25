@@ -1,0 +1,18 @@
+Função de parâmetro por referência
+
+- faz um ponteiro - void imprime_soma100 (int*x)
+- na main eu uso (&x)
+- uso de vetor e matriz ja é por referencia
+
+
+String
+bibioteca - string.h
+
+inicialização - char cadeia[]
+
+ - calcular o tamanho da string - strlen
+- char*strcpy - faz cópia da string, agora quando quero contar uma parte da string, eu uso o strncpy
+- concat - strcat e o strncat - concatena apenas uma determinada parte que eu quero
+
+- comparar duas cadeias - strcmp
+ - comparar duas cadeias sem levar em consideração maiúsculo e minusculo  - strnicmp
